@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-weight: 800;
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+}
+img{
+    height: 300px;
+    width: 30%;
+    float: left;
+   margin: 1.6%;
+   /*
+   To make the site responsive don't hardcore the width.when we move the browser the img should compress,to prevent  to move in the next line.
+   Here in single row we want three img and in single row width is 100%  means each img take 30% width so 10% width is remain for the margin.  If we want to give the margin to the img -> here in the 1st row 1st img will have left and right margin 2nd img will have left and right margin 3rd img will have left and right margin. So total 6 margin. 10% margin which is left. 10% divided 6=1.6% so we take 1.6% margin.
+   */
+}

@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    line-height: normal;
+}
+table{
+    border: 1px groove gray;
+    margin: 100px auto;
+}
+td{
+    height: 70px;
+    width: 70px;
+}
+.black{
+    background: black;
+   
+}
+.white{
+    background: white;
+}
+ td[class="black"]:hover{
+    background-color: aqua;
+
+}
+

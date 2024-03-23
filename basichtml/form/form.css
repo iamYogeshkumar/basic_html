@@ -1,0 +1,24 @@
+h2{ width: auto;
+    color: crimson;
+   height: 20px;
+   
+}
+
+form{ 
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: darkgray;
+    border: red solid 10px;
+    background: aquamarine;
+   font-weight: 700;
+    padding-bottom: 20px;
+    font-size: 25px;
+    
+}
+input{
+  height: auto;
+}
+
+
+
+ 

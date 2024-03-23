@@ -1,0 +1,50 @@
+
+body{
+    background: #0ad90e;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: blanchedalmond;
+}
+li{
+    color: blue;
+}
+p{
+    background: white;
+}
+input{
+    border: red 5px groove;
+}
+.hello{
+    background: blueviolet;
+    color: white;
+}
+#special{
+    border: 10px orange solid;
+
+}
+input[type="text"]{
+    background: gray;
+}
+input:checked{
+    margin-left: 10px;
+}
+label::first-letter{
+    text-transform: uppercase;
+}
+#special::first-letter{
+    color: rgb(244, 224, 4);
+    font-size: 50px;
+}
+h1:hover{
+    border: red solid 5px;
+    color: white;
+}
+a:visited{
+    color: red;
+}
+li:nth-of-type(1){
+    color: rgb(255, 153, 0);
+}
